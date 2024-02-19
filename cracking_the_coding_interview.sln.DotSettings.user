@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b311b02_002D41ee_002D40bb_002D8cde_002D5a70695033e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;And&gt;
+      &lt;Namespace&gt;nuint._1._5&lt;/Namespace&gt;
+      &lt;Project Location="/Users/kc/workspace/nunit/ctci" Presentation="&amp;lt;ctci&amp;gt;" /&gt;
+    &lt;/And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::8BA671DA-2DFC-47A2-9B71-97829312A02C::net8.0::nuint._1._6.Test&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3ad3759_002D9f85_002D476d_002Daf8f_002D0d5f451fdcdb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8BA671DA-2DFC-47A2-9B71-97829312A02C::net8.0::nuint.scratch.Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e42fb42f_002Ded47_002D4f14_002Da7b1_002D160d366b8fdf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8BA671DA-2DFC-47A2-9B71-97829312A02C::net8.0::nuint._1._8.Test.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8BA671DA-2DFC-47A2-9B71-97829312A02C::net8.0::nuint.scratch.Test.SampleTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
